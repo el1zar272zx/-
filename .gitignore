@@ -1,0 +1,12 @@
+.env
+*.db
+*.db-journal
+backups/
+logs/
+_old/
+_update.zip
+__pycache__/
+*.pyc
+venv/
+.venv/
+Claude outputs/
